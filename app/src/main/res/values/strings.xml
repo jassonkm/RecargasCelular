@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">RecargasCelular</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="MainTittleText">Bienvenidos a recargas WPOSS</string>
+    <string name="BtnRegistrar">Registrar</string>
+    <string name="BtnLogin">Iniciar sesion</string>
+    <string name="Lgin_text">Bienvenido al sistema de registro</string>
+    <string name="EditTextNom">Ingrese su nombre</string>
+    <string name="EditTextMail">Ingrese su correo</string>
+    <string name="EditTextPass">Ingrese una contraseña</string>
+    <string name="btn_SignUp">Registrarse</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="edit_Mail">Ingrese su correo</string>
+    <string name="edit_Pass">Ingrese su contraseña</string>
+    <string name="text_login">Bienvenido, por favor inicie sesion</string>
+    <string name="text_Rec">Bienvenido al sistema de recargas</string>
+    <string name="edit_phone">Ingrese el numero de celular</string>
+    <string name="edit_Rec">Ingrese el monto a recargar</string>
+    <string name="edit_confi_num">Confirme el numero de celular</string>
+    <string name="edit_confi_val">Confirme el monto</string>
+    <string name="btn_rec">Recargar</string>
+    <string name="textOper">Selecciona operador</string>
+    <string name="mostrar">Cerrar sesion</string>
+
+
+
+</resources>
